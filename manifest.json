@@ -1,0 +1,13 @@
+{
+    "manifest_version":3,
+    "name":"Timer",
+    "version":"1.0",
+    "description":"timer with set interval",
+    "icons":{
+        "16":"favicon.ico"
+    },
+    "action":{
+        "default_popup":"index.html",
+        "default_icon":"favicon.ico"
+    }
+}
